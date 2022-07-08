@@ -86,4 +86,8 @@ var data = new SlashCommandBuilder()
         }
     })
 
+scripts:{
+start: "node index.js"
+}
+
     
